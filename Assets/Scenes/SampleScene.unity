@@ -2145,7 +2145,7 @@ MonoBehaviour:
   rangeValue: 40
   attackPoint: {fileID: 691178039}
   bullet: {fileID: 4871744686949283991, guid: b222705f2f4abb54bb962db9f42c3d18, type: 3}
-  fireRate: 0
+  fireRate: 0.5
   rotationSpeed: 0.5
   gameOverScreen: {fileID: 7064202216025075446}
   playerColor:
